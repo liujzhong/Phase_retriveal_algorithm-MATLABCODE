@@ -1,3 +1,5 @@
 该压缩包包含了一个名为：Oversampling smoothness（OSS）的相位恢复算法
+该code 是在HIO算法的基础上进行了改进
 If you use these codes for your publications and/or presentations, we request you cite our paper:
 J. A. Rodriguez, R. Xu, C.-C. Chen, Y. Zou and J. Miao, "Oversampling smoothness (OSS): an effective algorithm for phase retrieval of noisy diffraction intensities", J. Appl. Cryst. 46, 312-318 (2013).
+
